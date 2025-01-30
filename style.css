@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+body{
+    background-color: burlywood;
+}
+.Full-Width{
+    max-width: 1440px;
+    margin: 0px auto;
+}
+
+
+.contain{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    
+}
+.contain h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-size: 30px;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 12px;
+    font-weight: 600;
+    font-variant: small-caps;
+}
