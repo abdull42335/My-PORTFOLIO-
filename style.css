@@ -79,8 +79,9 @@ color: #a6a7a7;
 
    margin-top: 51px;
    font-family: "Audiowide", serif;
-   font-size: 48px;
-   color: #00ff4254;
+   font-size: 39px;
+   /* color: #ffffff63; */
+   color: cadetblue;
    opacity: 0;
    animation: showText 1s linear infinite;
   
@@ -89,6 +90,13 @@ color: #a6a7a7;
     height: 337px;
     width: 340px;
     border-radius: 50%;
+}
+#para2{
+    font-size: 30px;
+    font-family: "Audiowide", serif;
+    font-variant: petite-caps;
+    line-height: 29px;
+    color: #8d9899;
 }
 
  
