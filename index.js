@@ -6,4 +6,7 @@ setInterval(() => {
   textElements[index].style.opacity = 0;
   index = (index + 1) % textElements.length;
   textElements[index].style.opacity = 1;
-}, 1000);
+}, 2000);
+
+
+
